@@ -20,9 +20,8 @@ Iris Dataset containing:
 - Sepal Width
 - Petal Length
 - Petal Width
+- Species
 
 ## Author
 Yazhini Jeyakumar
 CodeAlpha Data Science Intern
-
-- Species
